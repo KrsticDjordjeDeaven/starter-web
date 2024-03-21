@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Djordje Krstic djorjde@gmail.com Limska 11
 
 # THANKS
 
