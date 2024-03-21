@@ -1,3 +1,3 @@
 # robotstxt.org/
 
-User-agent: Djordje Krstic, Petar Petrovic
+User-agent: Djordje Krstic, Petar Petrovic, Nina Vuletic
